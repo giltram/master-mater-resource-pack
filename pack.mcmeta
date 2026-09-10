@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Master Mater — renames the Two by Two advancement to Master Mater",
+    "pack_format": 5,
+    "supported_formats": [5, 88],
+    "min_format": [5, 0],
+    "max_format": [88, 0]
+  }
+}
