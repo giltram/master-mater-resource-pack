@@ -4,9 +4,13 @@ A Minecraft resource pack that renames the “Two by Two” advancement to “Ma
 
 ## Supported Minecraft Versions
 
-Theoretically, it should work with all versions from 1.16.1 through 26.2. Some versions use different resource pack formats and may show a harmless incompatibility warning.
+Theoretically, it should work with all versions from 1.15 through 26.2. Some versions use different resource pack formats and may show a harmless incompatibility warning.
 
 Only tested on 1.16.1 because I only play this version for speedrunning.
+
+## Download
+
+You could download it from [release](https://github.com/giltram/master-mater-resource-pack/releases) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/master-mater)
 
 ## Reference
 
